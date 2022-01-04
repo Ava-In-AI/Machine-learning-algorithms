@@ -1,8 +1,8 @@
-Description
+## Description
 
 Implementing linear regression algrithm using tensorflow.
 
-Summary
+## Summary
 
 Linear Regression is a very common statistical method that allows us to learn a function or relationship from a given set of continuous data. 
 For example, we are given some data points of x and corresponding y and we need to learn the relationship between them that is called a hypothesis.
