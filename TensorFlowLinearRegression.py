@@ -56,6 +56,3 @@ for i in range( num_epochs ) :
     loss_plot.append( loss ) 
     
     print( 'Loss is {}'.format( loss ) ) 
-
-
-print('ji')    
